@@ -1,0 +1,14 @@
+GetIntroduction an introduction
+
+GetCocktails which cocktails they have
+GetCocktails cocktails
+GetCocktails what do they have
+GetCocktails what are my options
+
+GetCocktailsDetailed the details of a {Cocktail}
+GetCocktailsDetailed the details of the {Cocktail}
+GetCocktailsDetailed what a {Cocktail} is
+GetCocktailsDetailed what {Cocktail} is
+GetCocktailsDetailed what does {Cocktail} made of
+GetCocktailsDetailed what does {Cocktail} consists of
+GetCocktailsDetailed the ingredients of {Cocktail}

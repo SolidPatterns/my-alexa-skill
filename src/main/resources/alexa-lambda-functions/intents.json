@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GetIntroduction"
+    },
+    {
+      "intent": "GetCocktails"
+    },
+    {
+      "intent": "GetCocktailsDetailed",
+      "slots": [
+      	{
+      		"name": "Cocktail",
+	        "type": "LIST_OF_COCKTAILS"
+		}
+		]
+    }
+  ]
+}
